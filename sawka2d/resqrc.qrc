@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/essa.png</file>
+    <file>icons/hqd.png</file>
+  </qresource>
+  <qresource prefix="img">
+    <file>img/sawka1.png</file>
+    <file>img/sawka2.jpg</file>
+    <file>img/sawka3.jpg</file>
+    <file>img/sawka4.jpg</file>
+    <file>img/sawka5.jpg</file>
+    <file>img/sawka6.jpg</file>
+    <file>img/sawka7.jpg</file>
+    <file>img/sawka8.jpg</file>
+    <file>img/sawka9.jpg</file>
+    <file>img/sawka10.jpg</file>
+    <file>img/sawka11.jpg</file>
+  </qresource>
+</RCC>
